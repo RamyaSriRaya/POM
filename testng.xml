@@ -6,7 +6,7 @@
 <parameter name="pwd" value="crmsfa"></parameter>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testcases.Create"/>
+      <class name="testcases.CreateLead"/>
    
     </classes>
   </test> <!-- Test -->
