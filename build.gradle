@@ -63,5 +63,5 @@ suites 'testng.xml'
 }
 }
 sourceSets{
-test.java.scrDiv 'src/main'
+test.java.srcDir 'src/main'
 }
